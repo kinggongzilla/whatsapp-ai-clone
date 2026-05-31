@@ -1,4 +1,4 @@
-# Create an AI clone of yourself from your WhatsApp chats (using Llama3)
+# Create an AI clone of yourself from your WhatsApp chats (using Mistral 7B and Llama3)
 
 ## What's new
 * Completely rewritten with Torchtune library
